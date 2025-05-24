@@ -5,45 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36f29041-65f0-4cfb-a0d4-7488a1bbcbd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/companions/[id]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/companions/new/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/companions/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sign-in/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/soundwaves.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postcss.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/bookmark-filled.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/bookmark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/cap.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/check.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/clock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/coding.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/economics.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/google.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/history.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/language.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/logout.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/maths.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/mic-off.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/mic-on.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/plus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/science.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/cta.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/limit.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/readme/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/readme/jsmpro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/readme/thumbnail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/readme/videokit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/vapi.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NavItems.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748086358238</updated>
-      <workItem from="1748086361352" duration="4553000" />
+      <workItem from="1748086361352" duration="8877000" />
     </task>
     <servers />
   </component>
