@@ -3,6 +3,7 @@
 import {usePathname} from "next/navigation";
 import {cn} from "@/lib/utils";
 import Link from "next/link";
+import { SignInButton, SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
 
 const navItems = [
     {label: 'Home', href: '/'},
@@ -21,6 +22,16 @@ const NavItems = () => {
                     {label}
                 </Link>
             ))}
+            <div className="ml-4 flex items-center gap-2">
+                <SignedOut>
+                    <SignInButton>
+                        <button className={"btn-signin"}>Sign In</button>
+                    </SignInButton>
+                </SignedOut>
+                <SignedIn>
+                    <UserButton />
+                </SignedIn>
+            </div>
         </nav>
     )
 }
