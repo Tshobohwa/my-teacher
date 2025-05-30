@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36f29041-65f0-4cfb-a0d4-7488a1bbcbd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/sign-in/[[...sign-in]]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/CompanionForm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/actions/companion.action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/supabase.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/companions/new/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/companions/new/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/companions/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/companions/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sign-in/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/subscriptions/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/subscriptions/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CTA.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CTA.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/NavItems.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/NavItems.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CompanionForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CompanionForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/middleware.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -99,7 +95,10 @@
       <workItem from="1748086361352" duration="23368000" />
       <workItem from="1748124425198" duration="8117000" />
       <workItem from="1748172848094" duration="3966000" />
-      <workItem from="1748187478283" duration="8401000" />
+      <workItem from="1748187478283" duration="9652000" />
+      <workItem from="1748314256495" duration="587000" />
+      <workItem from="1748509614169" duration="30295000" />
+      <workItem from="1748618432010" duration="3144000" />
     </task>
     <servers />
   </component>
