@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36f29041-65f0-4cfb-a0d4-7488a1bbcbd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/vapi.sdk.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/companions/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/companions/[id]/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/companions/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/companions/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/SearchInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SearchInput.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/SubjectFilter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SubjectFilter.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/actions/companion.action.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/companion.action.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +94,7 @@
       <workItem from="1748509614169" duration="30295000" />
       <workItem from="1748618432010" duration="7220000" />
       <workItem from="1749034008189" duration="8399000" />
-      <workItem from="1749091214239" duration="417000" />
+      <workItem from="1749091214239" duration="2428000" />
     </task>
     <servers />
   </component>

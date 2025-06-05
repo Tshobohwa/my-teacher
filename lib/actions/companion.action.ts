@@ -47,6 +47,9 @@ export const getCompanion = async (id: string) => {
         .from("companions")
         .select()
         .eq("id", id);
+
+    console.log("Companion",data[0])
+
     if(error) return console.error(error?.message || "Failed to get companion");
 
     return data[0];
