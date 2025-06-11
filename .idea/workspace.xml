@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36f29041-65f0-4cfb-a0d4-7488a1bbcbd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/vapi.sdk.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/companions/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/companions/[id]/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CompanionComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CompanionComponent.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vapi.sdk.ts" beforeDir="false" />
-    </list>
+    <list default="true" id="36f29041-65f0-4cfb-a0d4-7488a1bbcbd0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +95,7 @@
       <workItem from="1749034008189" duration="8399000" />
       <workItem from="1749091214239" duration="19831000" />
       <workItem from="1749203457098" duration="7471000" />
+      <workItem from="1749618615405" duration="458000" />
     </task>
     <servers />
   </component>
