@@ -53,4 +53,5 @@ const CompanionSession = async ({params}: CompanionSessionPageProps) => {
         />
     </main>
 }
+
 export default CompanionSession
